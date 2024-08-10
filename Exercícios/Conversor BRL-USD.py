@@ -7,7 +7,7 @@ if moeda == ('BRL'):
     dollar = float (input('Digite o valor atual do USD: '))
     real_contia = float (input('Digite o valor que você possui em BRL para conversão: '))
     real = 1
-    conversao_brl = real_contia / dollar
+    conversao_brl =  dollar ** 2
     print (f'O valor que você possui em BRL é de R${real_contia} e o valor atual do dollar que voce inseriu é de ${dollar} fazendo a conversão você terá ${conversao_brl} cada BRL equivale a ${conversao_brl} USD')
 else:
     usd = float (input('Digite o valor que você possui em USD: '))
