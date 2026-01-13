@@ -1,0 +1,2 @@
+# faça um programa que leia um ângulo qualquer e mostre na tela o valor do Seno, Cosseno e da Tangente desse ângulo
+    # obs: eixo vertical sen, eixo horizontal cos e a projeção em pé é o sen, e a deitada a cos.
